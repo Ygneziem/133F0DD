@@ -1,3 +1,9 @@
 *.log
+*.save
+*.rpyc
+*.rpyb
+*.rpymc
 log.txt
+traceback.txt
 cache
+saves
